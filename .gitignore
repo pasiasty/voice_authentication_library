@@ -1,0 +1,7 @@
+.idea/
+/data/dumps/
+/data/parametrized/
+/data/raw_files/
+.model*
+*.pyc
+*.proc
