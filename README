@@ -1,2 +1,6 @@
 # voice_authentication_library
+
+
 This library is a general proof of concept of this, how voice authentication generally works. Feel free to copy it and use for your own purpose.
+
+The description of theoretical background and overall implementation of used algorithms is available under ref directory.

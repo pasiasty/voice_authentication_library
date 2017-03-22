@@ -1,0 +1,840 @@
+\ifglsentryexists{DSP}{}%
+{%
+\gls@defglossaryentry{DSP}%
+{%
+name={DSP},%
+sort={DSP},%
+type={main},%
+first={DSP},%
+firstplural={DSPs},%
+text={DSP},%
+plural={DSPs},%
+description={Digital Signal Processing},%
+descriptionplural={Digital Signal Processing},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{DFT}{}%
+{%
+\gls@defglossaryentry{DFT}%
+{%
+name={DFT},%
+sort={DFT},%
+type={main},%
+first={DFT},%
+firstplural={DFTs},%
+text={DFT},%
+plural={DFTs},%
+description={Discrete Fourier Transform},%
+descriptionplural={Discrete Fourier Transform},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{DTFT}{}%
+{%
+\gls@defglossaryentry{DTFT}%
+{%
+name={DTFT},%
+sort={DTFT},%
+type={main},%
+first={DTFT},%
+firstplural={DTFTs},%
+text={DTFT},%
+plural={DTFTs},%
+description={Discrete Time Fourier Transform},%
+descriptionplural={Discrete Time Fourier Transform},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{IDTFT}{}%
+{%
+\gls@defglossaryentry{IDTFT}%
+{%
+name={IDTFT},%
+sort={IDTFT},%
+type={main},%
+first={IDTFT},%
+firstplural={IDTFTs},%
+text={IDTFT},%
+plural={IDTFTs},%
+description={Inverse Discrete Time Fourier Transform},%
+descriptionplural={Inverse Discrete Time Fourier Transform},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{FFT}{}%
+{%
+\gls@defglossaryentry{FFT}%
+{%
+name={FFT},%
+sort={FFT},%
+type={main},%
+first={FFT},%
+firstplural={FFTs},%
+text={FFT},%
+plural={FFTs},%
+description={Fast Fourier Transform},%
+descriptionplural={Fast Fourier Transform},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{T}{}%
+{%
+\gls@defglossaryentry{T}%
+{%
+name={$T$},%
+sort={$T$},%
+type={main},%
+first={$T$},%
+firstplural={$T$s},%
+text={$T$},%
+plural={$T$s},%
+description={Sampling period},%
+descriptionplural={Sampling period},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{base_freq}{}%
+{%
+\gls@defglossaryentry{base_freq}%
+{%
+name={$\omega _0$},%
+sort={$\omega _0$},%
+type={main},%
+first={$\omega _0$},%
+firstplural={$\omega _0$s},%
+text={$\omega _0$},%
+plural={$\omega _0$s},%
+description={Base frequency},%
+descriptionplural={Base frequency},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{DAC}{}%
+{%
+\gls@defglossaryentry{DAC}%
+{%
+name={DAC},%
+sort={DAC},%
+type={main},%
+first={DAC},%
+firstplural={DACs},%
+text={DAC},%
+plural={DACs},%
+description={Digital to analog converter},%
+descriptionplural={Digital to analog converter},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{FIR}{}%
+{%
+\gls@defglossaryentry{FIR}%
+{%
+name={FIR},%
+sort={FIR},%
+type={main},%
+first={FIR},%
+firstplural={FIRs},%
+text={FIR},%
+plural={FIRs},%
+description={Finished impulse response},%
+descriptionplural={Finished impulse response},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{MFCC}{}%
+{%
+\gls@defglossaryentry{MFCC}%
+{%
+name={MFCC},%
+sort={MFCC},%
+type={main},%
+first={MFCC},%
+firstplural={MFCCs},%
+text={MFCC},%
+plural={MFCCs},%
+description={Mel frequency cepstral coefficient},%
+descriptionplural={Mel frequency cepstral coefficient},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{N_frame}{}%
+{%
+\gls@defglossaryentry{N_frame}%
+{%
+name={$N_{frame}$},%
+sort={$N_{frame}$},%
+type={main},%
+first={$N_{frame}$},%
+firstplural={$N_{frame}$s},%
+text={$N_{frame}$},%
+plural={$N_{frame}$s},%
+description={number of samples in processed frame},%
+descriptionplural={number of samples in processed frame},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{f_l}{}%
+{%
+\gls@defglossaryentry{f_l}%
+{%
+name={$f_l$},%
+sort={$f_l$},%
+type={main},%
+first={$f_l$},%
+firstplural={$f_l$s},%
+text={$f_l$},%
+plural={$f_l$s},%
+description={Lower bound of frequency used in mel filter bank generation in freq. domain},%
+descriptionplural={Lower bound of frequency used in mel filter bank generation in freq. domain},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{f_h}{}%
+{%
+\gls@defglossaryentry{f_h}%
+{%
+name={$f_h$},%
+sort={$f_h$},%
+type={main},%
+first={$f_h$},%
+firstplural={$f_h$s},%
+text={$f_h$},%
+plural={$f_h$s},%
+description={Higher bound of frequency used in mel filter bank generation in freq. domain},%
+descriptionplural={Higher bound of frequency used in mel filter bank generation in freq. domain},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{m_l}{}%
+{%
+\gls@defglossaryentry{m_l}%
+{%
+name={$m_l$},%
+sort={$m_l$},%
+type={main},%
+first={$m_l$},%
+firstplural={$m_l$s},%
+text={$m_l$},%
+plural={$m_l$s},%
+description={Lower bound of frequency used in mel filter bank generation in mel domain},%
+descriptionplural={Lower bound of frequency used in mel filter bank generation in mel domain},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{m_h}{}%
+{%
+\gls@defglossaryentry{m_h}%
+{%
+name={$m_h$},%
+sort={$m_h$},%
+type={main},%
+first={$m_h$},%
+firstplural={$m_h$s},%
+text={$m_h$},%
+plural={$m_h$s},%
+description={Higher bound of frequency used in mel filter bank generation in mel domain},%
+descriptionplural={Higher bound of frequency used in mel filter bank generation in mel domain},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{n_c}{}%
+{%
+\gls@defglossaryentry{n_c}%
+{%
+name={$n_c$},%
+sort={$n_c$},%
+type={main},%
+first={$n_c$},%
+firstplural={$n_c$s},%
+text={$n_c$},%
+plural={$n_c$s},%
+description={Number of \gls {MFCC} used},%
+descriptionplural={Number of \gls {MFCC} used},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{epsilon}{}%
+{%
+\gls@defglossaryentry{epsilon}%
+{%
+name={$\varepsilon _f$},%
+sort={$\varepsilon _f$},%
+type={main},%
+first={$\varepsilon _f$},%
+firstplural={$\varepsilon _f$s},%
+text={$\varepsilon _f$},%
+plural={$\varepsilon _f$s},%
+description={Numerical epsilon for float numbers},%
+descriptionplural={Numerical epsilon for float numbers},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{DCT}{}%
+{%
+\gls@defglossaryentry{DCT}%
+{%
+name={DCT},%
+sort={DCT},%
+type={main},%
+first={DCT},%
+firstplural={DCTs},%
+text={DCT},%
+plural={DCTs},%
+description={Discrete Cosine Transform},%
+descriptionplural={Discrete Cosine Transform},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{n_l}{}%
+{%
+\gls@defglossaryentry{n_l}%
+{%
+name={$n_l$},%
+sort={$n_l$},%
+type={main},%
+first={$n_l$},%
+firstplural={$n_l$s},%
+text={$n_l$},%
+plural={$n_l$s},%
+description={Number of liftered \gls {MFCC}},%
+descriptionplural={Number of liftered \gls {MFCC}},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{V_n}{}%
+{%
+\gls@defglossaryentry{V_n}%
+{%
+name={$V_n$},%
+sort={$V_n$},%
+type={main},%
+first={$V_n$},%
+firstplural={$V_n$s},%
+text={$V_n$},%
+plural={$V_n$s},%
+description={Vector of extracted speaker features},%
+descriptionplural={Vector of extracted speaker features},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{CMS}{}%
+{%
+\gls@defglossaryentry{CMS}%
+{%
+name={CMS},%
+sort={CMS},%
+type={main},%
+first={CMS},%
+firstplural={CMSs},%
+text={CMS},%
+plural={CMSs},%
+description={Cepstral Mean Subtraction},%
+descriptionplural={Cepstral Mean Subtraction},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{N_frames}{}%
+{%
+\gls@defglossaryentry{N_frames}%
+{%
+name={$N_{frames}$},%
+sort={$N_{frames}$},%
+type={main},%
+first={$N_{frames}$},%
+firstplural={$N_{frames}$s},%
+text={$N_{frames}$},%
+plural={$N_{frames}$s},%
+description={Number of frames in processed sample},%
+descriptionplural={Number of frames in processed sample},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{CDF}{}%
+{%
+\gls@defglossaryentry{CDF}%
+{%
+name={CDF},%
+sort={CDF},%
+type={main},%
+first={CDF},%
+firstplural={CDFs},%
+text={CDF},%
+plural={CDFs},%
+description={Cumulative Distribution Function},%
+descriptionplural={Cumulative Distribution Function},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{GMM}{}%
+{%
+\gls@defglossaryentry{GMM}%
+{%
+name={GMM},%
+sort={GMM},%
+type={main},%
+first={GMM},%
+firstplural={GMMs},%
+text={GMM},%
+plural={GMMs},%
+description={Gaussian Mixture Model},%
+descriptionplural={Gaussian Mixture Model},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{PCA}{}%
+{%
+\gls@defglossaryentry{PCA}%
+{%
+name={PCA},%
+sort={PCA},%
+type={main},%
+first={PCA},%
+firstplural={PCAs},%
+text={PCA},%
+plural={PCAs},%
+description={Principal Components Analysis},%
+descriptionplural={Principal Components Analysis},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{SVM}{}%
+{%
+\gls@defglossaryentry{SVM}%
+{%
+name={SVM},%
+sort={SVM},%
+type={main},%
+first={SVM},%
+firstplural={SVMs},%
+text={SVM},%
+plural={SVMs},%
+description={Suppor Vector Machine},%
+descriptionplural={Suppor Vector Machine},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{WAV}{}%
+{%
+\gls@defglossaryentry{WAV}%
+{%
+name={\texttt {WAV}},%
+sort={\texttt {WAV}},%
+type={main},%
+first={\protect \texttt {WAV}},%
+firstplural={\protect \texttt {WAV}s},%
+text={\protect \texttt {WAV}},%
+plural={\protect \texttt {WAV}s},%
+description={Waveform File Format},%
+descriptionplural={Waveform File Format},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ASV}{}%
+{%
+\gls@defglossaryentry{ASV}%
+{%
+name={\texttt {ASV}},%
+sort={\texttt {ASV}},%
+type={main},%
+first={\protect \texttt {ASV}},%
+firstplural={\protect \texttt {ASV}s},%
+text={\protect \texttt {ASV}},%
+plural={\protect \texttt {ASV}s},%
+description={Automatic Speaker Verification},%
+descriptionplural={Automatic Speaker Verification},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%

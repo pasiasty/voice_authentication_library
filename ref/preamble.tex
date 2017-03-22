@@ -1,0 +1,37 @@
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+\usepackage[toc]{appendix}
+\usepackage{mathtools}
+\usepackage{placeins}
+\usepackage[nonumberlist,nopostdot]{glossaries}
+\usepackage{listings}
+\usepackage{amsmath}
+\usepackage{xcolor}
+\usepackage{pgf-umlsd}
+\usepackage{subcaption}
+\usepackage{tikz}
+\usetikzlibrary{matrix,chains,positioning,decorations.pathreplacing,arrows}
+\usepackage{minted}    
+\usepackage{verbatim}
+
+\numberwithin{listing}{section}
+
+\titlen{Voice authentication library}
+\author{Mariusz Pasek}
+\promotor{dr Filip Zagórski}
+\kierunek{Informatyka}
+\specjalnosc{Computer Security}
+\wydzial{Wydział Podstawowych Problemów Techniki}
+
+\renewcommand{\figurename}{Fig.}
+
+\makeindex
+\makeglossaries
+\newglossarystyle{mylong}{%
+	\setglossarystyle{long}%
+	\renewcommand{\glsgroupskip}{}
+	\renewenvironment{theglossary}%
+	{\begin{longtable}[l]{@{}p{\dimexpr 2cm-\tabcolsep}p{0.8\hsize}}}
+		{\end{longtable}}%
+	\renewcommand{\glsnamefont}[1]{\textbf{##1}}
+}

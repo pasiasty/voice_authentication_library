@@ -1,0 +1,2 @@
+rm *acn *acr *alg *aux *bbl *glg *glo *gls *glsdefs *idx *ist *log *out *pdf *gz *toc
+rm -R _minted*
